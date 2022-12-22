@@ -33,11 +33,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Only challenge I came across was an error message in the console stating that my "GIT_ASKPASS_TOKEN environment variable is not defined!", as well as "error: unable to read askpass response from '/mnt/c/Users/wjnje/AppData/Local/Google/AndroidStudio2021.2/tmp/intellij-git-askpass-wsl-Ubuntu.sh'
+fatal: could not read Username for 'https://github.com': No such device or address". Aside from that, everything was pretty straightforward.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
