@@ -34,11 +34,11 @@ GIF created with ...
 ## Notes
 
 Only challenge I came across was an error message in the console stating that my "GIT_ASKPASS_TOKEN environment variable is not defined!", as well as "error: unable to read askpass response from '/mnt/c/Users/wjnje/AppData/Local/Google/AndroidStudio2021.2/tmp/intellij-git-askpass-wsl-Ubuntu.sh'
-fatal: could not read Username for 'https://github.com': No such device or address". Aside from that, everything was pretty straightforward.
+fatal: could not read Username for 'https://github.com': No such device or address". The reason for this was because I didn't have the Git application installed into my computer. Once I installed it, the problem was fixed and I was able to properly push my code onto GitHub. Aside from that, the walkthrough itself was pretty straightforward.
 
 ## License
 
-    Copyright [2022] [name of copyright owner]
+    Copyright [2022] [Will-Josh Njeumi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
